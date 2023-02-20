@@ -1,0 +1,9 @@
+*
+!README.md
+!run.sh
+!start.sh
+!stop.sh
+!build.sh
+!Dockerfile
+!requirements.txt
+!.gitignore
