@@ -10,7 +10,7 @@ RUN apt clean && rm -rf /var/lib/apt/lists/* && apt update && \
 
 # Random tools
 RUN apt install -y neofetch python3-pip clang wget ca-certificates gnupg \
-    astyle build-essential cmake cppcheck file g++ gcc gdb git lcov	\
+    astyle vim build-essential cmake cppcheck file g++ gcc gdb git lcov	\
     libxml2-dev	libxml2-utils make ninja-build python3 python3-dev bc \
 	python3-pip python3-setuptools python3-wheel rsync shellcheck unzip zip \
     gstreamer1.0-plugins-bad gstreamer1.0-plugins-base \

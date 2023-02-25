@@ -7,3 +7,7 @@
 !Dockerfile
 !requirements.txt
 !.gitignore
+!remove-all.sh
+!pictures
+!pictures/**
+!source_this.sh
